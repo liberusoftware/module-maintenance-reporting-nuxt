@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-reporting-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-reporting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-reporting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/reporting.md",
+  "presentationPlan": "projects/maintenance/nuxt/reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
